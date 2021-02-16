@@ -20,7 +20,7 @@
     "editor.lineHighlightBackground": "#353e49",
     "list.activeSelectionBackground": "#223c53",
     "list.inactiveSelectionBackground": "#223241",
-    "list.focusBackground": "#2a3538",
+    "quickInput.list.focusBackground": "#2a3538",
     "list.hoverBackground": "#2a3538",
     "list.highlightForeground": "#2e78b8",
     "list.activeSelectionForeground": "#c9c9c9",

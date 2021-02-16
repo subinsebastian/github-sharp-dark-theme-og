@@ -49,7 +49,7 @@
     "sideBarSectionHeader.foreground": "#616161",
     "list.activeSelectionBackground": "#5790be",
     "list.inactiveSelectionBackground": "#d0e2f0",
-    "list.focusBackground": "#c7c7c7",
+    "quickInput.list.focusBackground": "#c7c7c7",
     "activityBarBadge.background": "#d64926",
     "editorSuggestWidget.selectedBackground": "#c7c7c7",
     "menu.background": "#24292e",
@@ -83,19 +83,13 @@
       }
     },
     {
-      "scope": [
-        "strong",
-        "markup.heading.markdown",
-        "markup.bold.markdown"
-      ],
+      "scope": ["strong", "markup.heading.markdown", "markup.bold.markdown"],
       "settings": {
         "fontStyle": "bold"
       }
     },
     {
-      "scope": [
-        "markup.italic.markdown"
-      ],
+      "scope": ["markup.italic.markdown"],
       "settings": {
         "fontStyle": "italic"
       }
@@ -108,11 +102,7 @@
       }
     },
     {
-      "scope": [
-        "comment",
-        "markup.fenced_code",
-        "markup.inline"
-      ],
+      "scope": ["comment", "markup.fenced_code", "markup.inline"],
       "settings": {
         "foreground": "#6a737d"
       }
