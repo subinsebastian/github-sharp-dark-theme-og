@@ -54,7 +54,9 @@
     "menu.foreground": "#cccccc",
     "menu.selectionBackground": "#9e9e9e",
     "menubar.selectionBackground": "#494949",
-    "button.background": "#5790be"
+    "button.background": "#5790be",
+    "list.activeSelectionForeground": "#f0f0f0",
+    "list.focusHighlightForeground": "#ffffff"
   },
   "tokenColors": [
     {
