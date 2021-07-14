@@ -45,6 +45,7 @@
     "sideBar.border": "#cecece",
     "panel.background": "#f3f3f3",
     "terminal.background": "#f3f3f3",
+    "terminal.tab.activeBorder": "#00000000",
     "sideBarSectionHeader.background": "#e6e6e6",
     "sideBarSectionHeader.foreground": "#616161",
     "list.activeSelectionBackground": "#5790be",
