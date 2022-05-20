@@ -86,7 +86,7 @@
     "menu.background": "#24292e",
     "menu.foreground": "#aaaaaa",
     "menu.selectionBackground": "#2a3538",
-    "menu.separatorBackground": "#212427",
+    "menu.separatorBackground": "#424242",
     "menubar.selectionBackground": "#2a3538",
     "button.background": "#5790be"
   },
