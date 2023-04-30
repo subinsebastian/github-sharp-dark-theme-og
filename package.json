@@ -1,9 +1,11 @@
 {
   "name": "github-sharp-theme-og",
-  "displayName": "GitHub Sharp Theme OG",
+  "displayName": "[Deprecated] GitHub Sharp Theme OG",
   "description": "A GitHub inspired color theme for VSCode code and interface",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "publisher": "subinsebastian",
+  "deprecated": true,
+  "galleryBanner": false,
   "icon": "icon.png",
   "repository": {
     "type": "git",
