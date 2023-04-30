@@ -1,35 +1,35 @@
 {
-	"name": "github-sharp-theme",
-	"displayName": "GitHub Sharp Theme",
-	"description": "A GitHub inspired color theme for VSCode code and interface",
-	"version": "1.8.2",
-	"publisher": "joaomoreno",
-	"icon": "icon.png",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/joaomoreno/github-sharp-theme"
-	},
-	"bugs": {
-		"url": "https://github.com/joaomoreno/github-sharp-theme/issues"
-	},
-	"engines": {
-		"vscode": "^1.16.0"
-	},
-	"categories": [
-		"Themes"
-	],
-	"contributes": {
-		"themes": [
-			{
-				"label": "GitHub Sharp",
-				"uiTheme": "vs",
-				"path": "./themes/github-sharp-theme.color-theme.json"
-			},
-			{
-				"label": "GitHub Sharp Dark",
-				"uiTheme": "vs-dark",
-				"path": "./themes/github-sharp-dark-theme.color-theme.json"
-			}
-		]
-	}
+  "name": "github-sharp-theme-og",
+  "displayName": "GitHub Sharp Theme OG",
+  "description": "A GitHub inspired color theme for VSCode code and interface",
+  "version": "1.8.2",
+  "publisher": "subinsebastian",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/subinsebastian/github-sharp-dark-theme-og"
+  },
+  "bugs": {
+    "url": "https://github.com/subinsebastian/github-sharp-dark-theme-og/issues"
+  },
+  "engines": {
+    "vscode": "^1.16.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "GitHub Sharp OG",
+        "uiTheme": "vs",
+        "path": "./themes/github-sharp-theme.color-theme.json"
+      },
+      {
+        "label": "GitHub Sharp Dark OG",
+        "uiTheme": "vs-dark",
+        "path": "./themes/github-sharp-dark-theme.color-theme.json"
+      }
+    ]
+  }
 }
