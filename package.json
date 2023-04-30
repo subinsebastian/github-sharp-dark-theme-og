@@ -2,10 +2,16 @@
   "name": "github-sharp-theme-og",
   "displayName": "[Deprecated] GitHub Sharp Theme OG",
   "description": "A GitHub inspired color theme for VSCode code and interface",
-  "version": "1.8.3",
+  "version": "1.8.4",
   "publisher": "subinsebastian",
   "deprecated": true,
-  "galleryBanner": false,
+  "galleryBanner": {
+    "color": "#FF8800",
+    "theme": "dark",
+    "message": "This extension is deprecated and is no longer supported.",
+    "command": "workbench.extensions.action.showObsoleteExtension",
+    "background-color": "#202020"
+  },
   "icon": "icon.png",
   "repository": {
     "type": "git",
